@@ -1,0 +1,44 @@
+.about-us {
+  padding: 60px 20px;
+  background-color: #f9f9f9;
+}
+
+.about-us .container {
+  max-width: 1200px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.about-us h2 {
+  font-size: 2.5em;
+  margin-bottom: 20px;
+  color: #003366;
+}
+
+.about-us p {
+  font-size: 1.2em;
+  margin-bottom: 40px;
+  color: #555;
+}
+
+.key-differentiators {
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+  flex-wrap: wrap;
+}
+
+.differentiator {
+  max-width: 400px;
+}
+
+.differentiator h3 {
+  font-size: 1.8em;
+  margin-bottom: 10px;
+  color: #003366;
+}
+
+.differentiator p {
+  font-size: 1em;
+  color: #666;
+}
